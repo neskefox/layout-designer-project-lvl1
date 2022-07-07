@@ -78,6 +78,10 @@ h3 {
   flex: 1;
 }
 
+.overfl-h {
+  overflow: hidden;
+}
+
 .c-primary {
   color: var(--primary);
 }
