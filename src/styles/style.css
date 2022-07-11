@@ -59,10 +59,10 @@ h3 {
 h1,
 h2,
 h3 {
+  color: var(--primary);
   font-weight: 400;
   font-family: Neucha, sans-serif;
   line-height: 1.2em;
-  color: var(--primary);
 }
 
 .d-flex {
@@ -264,6 +264,7 @@ h3 {
 .definition h2 {
   margin-top: 0;
   margin-bottom: 30px;
+
   color: var(--dark);
 }
 
